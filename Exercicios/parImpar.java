@@ -17,7 +17,7 @@ public class parImpar {
         } else {
             while(x > 1){
                 x = 3 * x + 1;
-                System.out.println("O novo valor de x considerando o número como ímpar é: "+ x);
+                System.out.println("O novo valor de x, considerando o número como ímpar é: "+ x);
             }
             
         }
