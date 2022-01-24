@@ -12,7 +12,7 @@ public class parImpar {
         if(x % 2 == 0){
             while(x > 1){
                 x = x / 2;
-                System.out.println(x);
+                System.out.println("O novo valor de x, considerando o número como par é: "+ x);
             }
         } else {
             while(x > 1){
