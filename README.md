@@ -1,1 +1,3 @@
-# Repositório com a finalidade de compartilhar os meus estudos via apostila Caelum Java.
+# Estudo Apostila Caelum
+
+## Repositório com o intuito de compartilhamento das atividades vistas na Apostila Java da Caelum
